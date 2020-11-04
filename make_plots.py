@@ -36,3 +36,5 @@ ax.grid(True)
 # axes up to make room for them
 fig.autofmt_xdate()
 plt.savefig("images/fig1_2020-11-03.png")
+plt.savefig("images/fig2_2020-11-03.png")
+plt.savefig("images/fig3_2020-11-03.png")
