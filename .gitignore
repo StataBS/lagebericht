@@ -1,0 +1,6 @@
+test*.*
+env/
+data/
+archive/
+__pycache__/
+.vscode/
